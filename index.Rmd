@@ -14,7 +14,7 @@ output:
   postcards::solana
 ---
 
-## Bio
+<br>
 
 Keith McNulty is an applied mathematician/statistician, psychometrician and data scientist based in the UK.  He started his career as a Pure Mathematician with a focus on Matrix Algebra and Group Representation Theory. He then transitioned into the private sector where he developed expertise in the application of mathematics and measurement theory to questions of people, talent, skills and organizational science.  He is currently the Global Leader of Talent Science and Analytics at McKinsey & Company, the leading global professional services firm.  
 
