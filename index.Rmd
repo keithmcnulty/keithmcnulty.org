@@ -1,0 +1,25 @@
+---
+title: "Keith McNulty"
+image: "keith.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/keith-mcnulty/"
+  - label: Twitter
+    url: "https://twitter.com/dr_keithmcnulty"
+  - label: Books
+    url: "https://www.routledge.com/authors/i21388-keith-mcnulty"
+  - label: Blog
+    url: "https://keith-mcnulty.medium.com"
+output:
+  postcards::solana
+---
+
+## Bio
+
+Keith McNulty is an applied mathematician/statistician, psychometrician and data scientist based in the UK.  He started his career as a Pure Mathematician with a focus on Matrix Algebra and Group Representation Theory. He then transitioned into the private sector where he developed expertise in the application of mathematics and measurement theory to questions of people, talent, skills and organizational science.  He is currently the Global Leader of Talent Science and Analytics at McKinsey & Company, the leading global professional services firm.  
+
+He has authored a number of textbooks in the fields of data science and people analytics, including:
+
+- [*Handbook of Regression Modeling in People Analytics*](https://www.routledge.com/Handbook-of-Regression-Modeling-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032041742)
+- [*Handbook of Graphs and Networks in People Analytics*](https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970)
+- [*Using Data in Organizations* (Book Chapter wih Alexis A. Fink)](https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707)
