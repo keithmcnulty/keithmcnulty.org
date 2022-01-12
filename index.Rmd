@@ -25,7 +25,7 @@ He has authored a number of textbooks in the fields of data science and people a
 - [*Using Data in Organizations* (Book Chapter wih Alexis A. Fink)](https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707)
 
 
-```{r}
+```{r, echo = FALSE}
 library(metathis)
 
 meta() %>%
