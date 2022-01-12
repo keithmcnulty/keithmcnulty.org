@@ -11,7 +11,7 @@ links:
   - label: Blog
     url: "https://keith-mcnulty.medium.com"
 output:
-  postcards::solana
+  postcards::trestles
 ---
 
 <br>
