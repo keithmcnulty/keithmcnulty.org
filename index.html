@@ -27,6 +27,25 @@
 
     
           <script src="data:application/javascript;base64,Ly8gUGFuZG9jIDIuOSBhZGRzIGF0dHJpYnV0ZXMgb24gYm90aCBoZWFkZXIgYW5kIGRpdi4gV2UgcmVtb3ZlIHRoZSBmb3JtZXIgKHRvCi8vIGJlIGNvbXBhdGlibGUgd2l0aCB0aGUgYmVoYXZpb3Igb2YgUGFuZG9jIDwgMi44KS4KZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignRE9NQ29udGVudExvYWRlZCcsIGZ1bmN0aW9uKGUpIHsKICB2YXIgaHMgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCJkaXYuc2VjdGlvbltjbGFzcyo9J2xldmVsJ10gPiA6Zmlyc3QtY2hpbGQiKTsKICB2YXIgaSwgaCwgYTsKICBmb3IgKGkgPSAwOyBpIDwgaHMubGVuZ3RoOyBpKyspIHsKICAgIGggPSBoc1tpXTsKICAgIGlmICghL15oWzEtNl0kL2kudGVzdChoLnRhZ05hbWUpKSBjb250aW51ZTsgIC8vIGl0IHNob3VsZCBiZSBhIGhlYWRlciBoMS1oNgogICAgYSA9IGguYXR0cmlidXRlczsKICAgIHdoaWxlIChhLmxlbmd0aCA+IDApIGgucmVtb3ZlQXR0cmlidXRlKGFbMF0ubmFtZSk7CiAgfQp9KTsK"></script>
+          <meta name="viewport" content="width=device-width, initial-scale=1, orientation=auto" />
+          <meta name="description" content="Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author" />
+          <meta name="github-repo" content="keithmcnulty/keithmcnulty.org" />
+          <meta name="twitter:title" content="Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author" />
+          <meta name="twitter:description" content="Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author" />
+          <meta name="twitter:url" content="https://keithmcnulty.org" />
+          <meta name="twitter:image" content="https://keithmcnulty.org/keith.jpg" />
+          <meta name="twitter:image:alt" content="Photo of Keith McNulty" />
+          <meta name="twitter:card" content="summary" />
+          <meta name="twitter:creator" content="@dr_keithmcnulty" />
+          <meta name="twitter:site" content="@dr_keithmcnulty" />
+          <meta property="og:title" content="Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author" />
+          <meta property="og:description" content="Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author" />
+          <meta property="og:url" content="https://keithmcnulty.org" />
+          <meta property="og:image" content="https://keithmcnulty.org/keith.jpg" />
+          <meta property="og:image:alt" content="Photo of Keith McNulty" />
+          <meta property="og:type" content="website" />
+          <meta property="og:locale" content="en_US" />
+          <meta property="article:author" content="Keith McNulty" />
     
     
   </head>
@@ -86,6 +105,23 @@
           <li><a href="https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970"><em>Handbook of Graphs and Networks in People Analytics</em></a></li>
           <li><a href="https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707"><em>Using Data in Organizations</em> (Book Chapter wih Alexis A. Fink)</a></li>
           </ul>
+          <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(metathis)</span>
+          <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+          <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">meta</span>() <span class="sc">%&gt;%</span></span>
+          <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">meta_description</span>(</span>
+          <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>    <span class="st">&quot;Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author&quot;</span></span>
+          <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span> </span>
+          <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">meta_name</span>(<span class="st">&quot;github-repo&quot;</span> <span class="ot">=</span> <span class="st">&quot;keithmcnulty/keithmcnulty.org&quot;</span>) <span class="sc">%&gt;%</span> </span>
+          <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">meta_viewport</span>() <span class="sc">%&gt;%</span> </span>
+          <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">meta_social</span>(</span>
+          <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">&quot;Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author&quot;</span>,</span>
+          <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">url =</span> <span class="st">&quot;https://keithmcnulty.org&quot;</span>,</span>
+          <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">image =</span> <span class="st">&quot;https://keithmcnulty.org/keith.jpg&quot;</span>,</span>
+          <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    <span class="at">image_alt =</span> <span class="st">&quot;Photo of Keith McNulty&quot;</span>,</span>
+          <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">og_author =</span> <span class="fu">c</span>(<span class="st">&quot;Keith McNulty&quot;</span>),</span>
+          <span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">twitter_card_type =</span> <span class="st">&quot;summary&quot;</span>,</span>
+          <span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    <span class="at">twitter_creator =</span> <span class="st">&quot;@dr_keithmcnulty&quot;</span></span>
+          <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>  )</span></code></pre></div>
         </div>
       </div>
     </div>
@@ -137,6 +173,23 @@
               <li><a href="https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970"><em>Handbook of Graphs and Networks in People Analytics</em></a></li>
               <li><a href="https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707"><em>Using Data in Organizations</em> (Book Chapter wih Alexis A. Fink)</a></li>
               </ul>
+              <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(metathis)</span>
+              <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+              <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">meta</span>() <span class="sc">%&gt;%</span></span>
+              <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">meta_description</span>(</span>
+              <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>    <span class="st">&quot;Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author&quot;</span></span>
+              <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span> </span>
+              <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">meta_name</span>(<span class="st">&quot;github-repo&quot;</span> <span class="ot">=</span> <span class="st">&quot;keithmcnulty/keithmcnulty.org&quot;</span>) <span class="sc">%&gt;%</span> </span>
+              <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">meta_viewport</span>() <span class="sc">%&gt;%</span> </span>
+              <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">meta_social</span>(</span>
+              <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">&quot;Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author&quot;</span>,</span>
+              <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">url =</span> <span class="st">&quot;https://keithmcnulty.org&quot;</span>,</span>
+              <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">image =</span> <span class="st">&quot;https://keithmcnulty.org/keith.jpg&quot;</span>,</span>
+              <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    <span class="at">image_alt =</span> <span class="st">&quot;Photo of Keith McNulty&quot;</span>,</span>
+              <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">og_author =</span> <span class="fu">c</span>(<span class="st">&quot;Keith McNulty&quot;</span>),</span>
+              <span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">twitter_card_type =</span> <span class="st">&quot;summary&quot;</span>,</span>
+              <span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    <span class="at">twitter_creator =</span> <span class="st">&quot;@dr_keithmcnulty&quot;</span></span>
+              <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>  )</span></code></pre></div>
             </div>
         </div>
       </div>

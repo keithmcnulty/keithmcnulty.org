@@ -23,3 +23,24 @@ He has authored a number of textbooks in the fields of data science and people a
 - [*Handbook of Regression Modeling in People Analytics*](https://www.routledge.com/Handbook-of-Regression-Modeling-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032041742)
 - [*Handbook of Graphs and Networks in People Analytics*](https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970)
 - [*Using Data in Organizations* (Book Chapter wih Alexis A. Fink)](https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707)
+
+
+```{r}
+library(metathis)
+
+meta() %>%
+  meta_description(
+    "Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author"
+  ) %>% 
+  meta_name("github-repo" = "keithmcnulty/keithmcnulty.org") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author",
+    url = "https://keithmcnulty.org",
+    image = "https://keithmcnulty.org/keith.jpg",
+    image_alt = "Photo of Keith McNulty",
+    og_author = c("Keith McNulty"),
+    twitter_card_type = "summary",
+    twitter_creator = "@dr_keithmcnulty"
+  )
+```
