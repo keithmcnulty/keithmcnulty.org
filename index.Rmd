@@ -9,7 +9,7 @@ links:
   - label: Books
     url: "https://www.routledge.com/authors/i21388-keith-mcnulty"
   - label: Blog
-    url: "https://keith-mcnulty.medium.com"
+    url: "https://blog.keithmcnulty.org"
 output:
   postcards::trestles
 ---
