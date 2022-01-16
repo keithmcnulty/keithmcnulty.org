@@ -22,7 +22,7 @@ He has authored a number of textbooks in the fields of data science and people a
 
 - [*Handbook of Regression Modeling in People Analytics*](https://www.routledge.com/Handbook-of-Regression-Modeling-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032041742)
 - [*Handbook of Graphs and Networks in People Analytics*](https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970)
-- [*Using Data in Organizations* (Book Chapter wih Alexis A. Fink)](https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707)
+- [*Using Data in Organizations* (Book Chapter with Alexis A. Fink)](https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707)
 
 
 ```{r, echo = FALSE}
