@@ -18,9 +18,9 @@ output:
 
 Keith McNulty is an applied mathematician/statistician, psychometrician and data scientist based in the UK, and he is currently a global data science, digital and technology leader at McKinsey & Company.  He is a LinkedIn Top Voice in Data Science, Analytics and AI.
 
-He started his career as a Pure Mathematician with a focus on Matrix Algebra and Group Representation Theory. He then transitioned into the private sector where he developed expertise in the application of mathematics and measurement theory to questions of people, talent, skills and organizational science.  
+He started his career as a Pure Mathematician with a focus on Matrix Algebra and Group Representation Theory. He then transitioned into the private sector where he developed expertise in the application of mathematics and measurement theory to questions of people, talent, skills and organizational science, particularly in the areas of hiring and skill assessment.  
 
-He is a passionate technical leader, who believes strongly in hands-on skills in data architecture, data science and data engineering. He has authored a number of textbooks in the fields of data science, including:
+He is a passionate technical leader, who believes strongly in scientific expertise and hands-on skills in data science and data engineering. He has authored a number of textbooks in the fields of data science, including:
 
 - [*Handbook of Regression Modeling in People Analytics*](https://www.routledge.com/Handbook-of-Regression-Modeling-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032041742)
 - [*Handbook of Graphs and Networks in People Analytics*](https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970)
